@@ -5,9 +5,10 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+   ROAR !!!  (red: saputROARyulianto)
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hey there! I'm Ary, From Bogor, Indonesia.
+
+currently working as Cloud Architect/Project Manager at IT company.
+I love coffee and outdoor activities, very interested of Cloud infrastructure technology
