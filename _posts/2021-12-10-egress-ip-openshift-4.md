@@ -84,7 +84,8 @@ Set Egress IP untuk namespace
 oc patch netnamespace egress-ip --type=merge -p '{"egressIPs": ['192.168.50.179']}'
 ```
 Cek apakah Egress IP sudah terconfig dengan baik atau belum
-```ssh core@192.168.10.16 ip a show dev ens3
+```
+ssh core@192.168.10.16 ip a show dev ens3
 2: ens3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 52:54:00:3e:be:20 brd ff:ff:ff:ff:ff:ff
     inet 192.168.10.16/24 brd 192.168.10.255 scope global dynamic noprefixroute ens3
