@@ -1,11 +1,11 @@
 ---
 id: 1246
-title: Egress IP Openshift 4
+title: Egress IP OpenShift 4
 date: 2021-12-7T13:47:58+07:00
 author: ary
 layout: post
 guid: http://blog.aryulianto.com/?p=1246
-permalink: /egress-ip-openshift-4
+permalink: /egress-ip-openshift-4/
 categories:
   - Linux
   - OpenShift
@@ -18,6 +18,7 @@ tags:
 Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services menggunakan fixed IP address. 
 
 **Environment Testing**
+
 - OpenShift - OCP Cluster 4.7
 - External services (Web) - 192.168.10.29/24
 - Fix IP address untuk Egress IP - 192.168.10.179/24
@@ -72,6 +73,7 @@ Periksa log di node Web server
 </pre>
 
 **Basic Egress IP Test**
+
 Set IP range ke node worker01
 <pre>oc patch hostsubnet worker01 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'</pre>
 
