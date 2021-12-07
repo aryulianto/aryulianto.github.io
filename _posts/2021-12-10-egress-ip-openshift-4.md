@@ -26,6 +26,7 @@ Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services meng
 **External Web server**
 
 Pasang paket web server untuk pengujian
+
 <pre>yum install -y httpd
 systemctl start httpd</pre>
 <pre>
@@ -38,12 +39,14 @@ EOF</pre>
 **Container For Testing**
 
 Buat project dan deploy container untuk testing
+
 <pre>oc new-project egress-ip
 oc create deployment test-nginx --image quay.io/redhattraining/hello-world-nginx
 oc get deploy
 </pre>
 
 Cek Pod berjalan di Worker mana
+
 <pre>
 oc get pod -o wide
 </pre>
@@ -53,6 +56,7 @@ test-nginx-86856dbc5c-dpb22   1/1     Running   0          2m5s   10.129.4.175  
 </pre>
 
 Periksa IP worker dimana pod berjalan
+
 <pre>oc get po -o custom-columns=NAME:.spec.containers[0].name,NODE:.spec.nodeName,POD_IP:.status.podIP,HOST_IP:.status.hostIP</pre>
 <pre>
 NAME                NODE                             POD_IP         HOST_IP
@@ -62,12 +66,14 @@ hello-world-nginx   worker01.roar.lab   10.129.4.175   192.168.10.16
 **Testing Connecting to External Web Server**
 
 Panggil external services via container
+
 <pre>
 oc rsh deploy/test-nginx curl http://192.168.10.29
 OK - from external services
 </pre>
 
 Periksa log di node Web server
+
 <pre>tail -f /var/log/httpd/access_log
 192.168.10.16 - - [07/Dec/2021:05:31:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 </pre>
@@ -75,12 +81,15 @@ Periksa log di node Web server
 **Basic Egress IP Test**
 
 Set IP range ke node worker01
+
 <pre>oc patch hostsubnet worker01 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'</pre>
 
 Set Egress IP untuk namespace
+
 <pre>oc patch netnamespace egress-ip --type=merge -p '{"egressIPs": ['192.168.50.179']}'</pre>
 
 Cek apakah Egress IP sudah terconfig dengan baik atau belum
+
 <pre>ssh core@192.168.10.16 ip a show dev ens3
 2: ens3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 52:54:00:3e:be:20 brd ff:ff:ff:ff:ff:ff
@@ -93,12 +102,14 @@ Cek apakah Egress IP sudah terconfig dengan baik atau belum
 </pre>
 
 Lakukan uji test lagi 
+
 <pre>
 oc rsh deploy/test-nginx curl http://192.168.10.29
 OK - from external services
 </pre>
 
 Periksa kembali log di node Web server
+
 <pre>tail -f /var/log/httpd/access_log
 192.168.10.179 - - [07/Dec/2021:05:40:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 </pre>
@@ -106,6 +117,7 @@ Periksa kembali log di node Web server
 **Failover Test**
 
 Karena Egress IP hanya jalan di worker01, lakukan ujicoba dengan menshutdown node worker01
+
 <pre>
 oc get nodes
 NAME                STATUS                      ROLES    AGE  VERSION
@@ -119,20 +131,24 @@ worker04.roar.lab   Ready                       worker   2d   v1.20.0+bafe72f
 </pre>
 
 Sekarang mari kita jalankan tes lagi
+
 <pre>
 oc rsh deploy/test-nginx curl http://192.168.10.29
 </pre>
+
 Tes akan gagal karena tidak ada network yang dapat melakukan request
 
 **Failover with 2+ nodes**
 
 Untuk mengatasi itu, set Egress range juga di node worker yang lain
+
 <pre>
 oc patch hostsubnet worker02 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'
 oc patch hostsubnet worker03 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'
 </pre>
 
 Cek dan pastikan Egress CIDRs dinode worker
+
 <pre>
 oc get hostsubnet
 NAME                HOST                HOST IP         SUBNET          EGRESS CIDRS            EGRESS IPS
@@ -145,6 +161,7 @@ worker03.roar.lab   worker03.roar.lab   192.168.10.18   10.129.2.0/23   ["192.16
 </pre>
 
 Uji coba memanggil web server sambil mematikan worker01 dimana Egress IP bound, harusnya Egress IPs akan pindah ke node lain.
+
 <pre> while true; do oc rsh deploy/test-nginx curl http://192.168.10.29 ;sleep 1; done </pre>
 
 
@@ -160,6 +177,7 @@ worker03.roar.lab   worker03.roar.lab   192.168.10.18   10.129.2.0/23   ["192.16
 </pre>
 
 Cek Egress IP di node worker02
+
 <pre>
 core@192.168.10.17 ip a show dev ens3
 2: ens3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
