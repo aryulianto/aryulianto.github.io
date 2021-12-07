@@ -15,15 +15,15 @@ tags:
   - OKD
   - Egress
 ---
-
 Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services menggunakan fixed IP address. 
 
-# Environment Testing
+**Environment Testing**
 - OpenShift - OCP Cluster 4.7
 - External services (Web) - 192.168.10.29/24
 - Fix IP address untuk Egress IP - 192.168.10.179/24
 
-# External Web server
+**External Web server**
+
 Pasang paket web server untuk pengujian
 <pre>yum install -y httpd
 systemctl start httpd</pre>
@@ -34,7 +34,8 @@ EOF</pre>
 
 <pre>curl localhost</pre>
 
-# Container For Testing
+**Container For Testing**
+
 Buat project dan deploy container untuk testing
 <pre>oc new-project egress-ip
 oc create deployment test-nginx --image quay.io/redhattraining/hello-world-nginx
@@ -57,7 +58,8 @@ NAME                NODE                             POD_IP         HOST_IP
 hello-world-nginx   worker01.roar.lab   10.129.4.175   192.168.10.16
 </pre>
 
-# Testing Connecting to External Web Server
+**Testing Connecting to External Web Server**
+
 Panggil external services via container
 <pre>
 oc rsh deploy/test-nginx curl http://192.168.10.29
@@ -69,7 +71,7 @@ Periksa log di node Web server
 192.168.10.16 - - [07/Dec/2021:05:31:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 </pre>
 
-# Basic Egress IP Test
+**Basic Egress IP Test**
 Set IP range ke node worker01
 <pre>oc patch hostsubnet worker01 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'</pre>
 
@@ -99,7 +101,8 @@ Periksa kembali log di node Web server
 192.168.10.179 - - [07/Dec/2021:05:40:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 </pre>
 
-# Failover Test
+**Failover Test**
+
 Karena Egress IP hanya jalan di worker01, lakukan ujicoba dengan menshutdown node worker01
 <pre>
 oc get nodes
@@ -119,7 +122,8 @@ oc rsh deploy/test-nginx curl http://192.168.10.29
 </pre>
 Tes akan gagal karena tidak ada network yang dapat melakukan request
 
-# Failover with 2+ nodes
+**Failover with 2+ nodes**
+
 Untuk mengatasi itu, set Egress range juga di node worker yang lain
 <pre>
 oc patch hostsubnet worker02 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'
