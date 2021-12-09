@@ -25,6 +25,7 @@ Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services meng
 - Fix IP address untuk Egress IP - 192.168.10.179/24
 
 **External Web server**
+
 Pasang paket web server untuk pengujian
 ```
 yum install -y httpd
@@ -42,6 +43,7 @@ curl localhost
 ```
 
 **Container For Testing**
+
 Buat project dan deploy container untuk testing
 ```
 oc new-project egress-ip
@@ -66,6 +68,7 @@ NAME                NODE                             POD_IP         HOST_IP
 hello-world-nginx   worker01.roar.lab   10.129.4.175   192.168.10.16
 ```
 **Testing Connecting to External Web Server**
+
 Panggil external services via container
 ```
 oc rsh deploy/test-nginx curl http://192.168.10.29
@@ -77,6 +80,7 @@ tail -f /var/log/httpd/access_log
 192.168.10.16 - - [07/Dec/2021:05:31:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 ```
 **Basic Egress IP Test**
+
 Set IP range ke node worker01
 ```
 oc patch hostsubnet worker01 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'
@@ -108,6 +112,7 @@ tail -f /var/log/httpd/access_log
 192.168.10.179 - - [07/Dec/2021:05:40:58 +0000] "GET / HTTP/1.1" 200 28 "-" "curl/7.61.1"
 ```
 **Failover Test**
+
 Karena Egress IP hanya jalan di worker01, lakukan ujicoba dengan menshutdown node worker01
 ```
 oc get nodes
@@ -127,6 +132,7 @@ oc rsh deploy/test-nginx curl http://192.168.10.29
 Tes akan gagal karena tidak ada network yang dapat melakukan request
 
 **Failover with 2+ nodes**
+
 Untuk mengatasi itu, set Egress range juga di node worker yang lain
 ```
 oc patch hostsubnet worker02 --type=merge -p '{"egressCIDRs": ["192.168.50.179/24"]}'
