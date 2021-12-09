@@ -22,6 +22,10 @@ Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services meng
 - External services (Web) - 192.168.10.29/24
 - Fix IP address untuk Egress IP - 192.168.10.179/24
 
+
+
+
+
 ## External Web server
 Pasang paket web server untuk pengujian
 ```
