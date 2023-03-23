@@ -11,7 +11,7 @@ categories:
   - Linux
   - Trip
 tags:
-  - 2022
+  - "2022"
   - Conference
   - Field
   - Ubuntu
