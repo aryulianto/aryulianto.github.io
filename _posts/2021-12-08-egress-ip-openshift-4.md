@@ -1,11 +1,11 @@
 ---
-id: 1248
+id: 1246
 title: 'Config Egress IP OpenShift 4'
-date: 2022-12-01T19:17:31+07:00
+date: 2021-12-08T19:17:31+07:00
 author: ary
 layout: post
-guid: https://blog.aryulianto.com/?p=1248
-permalink: /egress-ip-openshift-4/
+guid: https://blog.aryulianto.com/?p=1246
+permalink: /config-egress-ip-openshift-4/
 categories:
   - Linux
   - Tutorial
