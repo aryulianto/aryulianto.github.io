@@ -4,7 +4,7 @@ title: 'Mengamankan SSH dengan Google Authenticator &#8211; openSUSE Leap 15'
 date: 2019-01-12T21:15:00+07:00
 author: ary
 layout: post
-guid: http://blog.aryulianto.com/?p=1141
+guid: https://blog.aryulianto.com/?p=1141
 permalink: /mengamankan-ssh-dengan-google-authenticator-opensuse-leap-15/
 categories:
   - Linux

@@ -1,6 +1,6 @@
 ---
 id: 1246
-title: Egress IP OpenShift 4
+title: 'Egress IP OpenShift 4'
 date: 2021-12-7T13:47:58+07:00
 author: ary
 layout: post
