@@ -4,7 +4,7 @@ title: Egress IP OpenShift 4
 date: 2021-12-7T13:47:58+07:00
 author: ary
 layout: post
-guid: http://blog.aryulianto.com/?p=1246
+guid: https://blog.aryulianto.com/?p=1246
 permalink: /egress-ip-openshift-4/
 categories:
   - Linux
@@ -16,8 +16,6 @@ tags:
   - Egress
 ---
 Cara mengkonfigurasi Egress IP agar semua koneksi menuju eksternal services menggunakan fixed IP address.
-
-
 
 **Environment Testing**
 - OpenShift - OCP Cluster 4.7
