@@ -31,7 +31,7 @@ Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter
 
 **Day 1 Conference**
 
-I attended several sessions and was quite impressed with the event organizers who provided Korea-English interpreters, making me comfortable and able to participate in any session in the main hall. I also met [Seongsoo Cho](https://twitter.com/seongsoo_kr) from Openstack Korea, and was very happy to meet and have a great time with him!
+I attended several sessions and was quite impressed with the event organizers who provided Korea-English interpreters, making me comfortable and able to participate in any session in the main hall. I also met [Seongsoo Cho](https://twitter.com/seongsoo_kr) from Openstack Korea User Group, and was very happy to meet and have a great time with him!
 
 After the first day was over, I attended the conference dinner and mingled with speakers and other community folks at a fancy party room in Hongdae!
 
@@ -39,10 +39,14 @@ After the first day was over, I attended the conference dinner and mingled with 
 
 **Group Tour**
 
+The organizer also provided a one-day tour that included a visit to Insa-dong, Gyeongbokgung Palace, Bukchon Hanok Village, and a painting performance show.Thank you for the lovely experience. I really appreciate all the efforts made by the team to make this event a grand success."
+
 **After the Conference**
 
 After the UbuCon 2022 event was over, I moved to [Myeong-dong](https://en.wikipedia.org/wiki/Myeong-dong) to extend my stay for a few days and enjoy the beauty of the city by exploring around. Besides that, I also went solo hiking to climb [Bukhansan](https://en.wikipedia.org/wiki/Bukhansan) or Bukhan Mountain, which I might share in a separate article. I was also invited by my friends [Seongsoo](https://twitter.com/seongsoo_kr) and [Seonjae](https://twitter.com/tjswo98sj06) to go to Seoul Sky to enjoy the night view of Seoul city
 
-South Korea is an amazing country that offers a unique blend of traditional and modern culture. The people are friendly and welcoming, and the food is delicious. My experience at UbuCon 2022 and in South Korea was unforgettable, and I promise to come back here soon!
+South Korea is an amazing country that offers a unique blend of traditional and modern culture. The people are friendly and welcoming, and the food is delicious. 
+
+My experience at UbuCon 2022 and in South Korea was unforgettable, and I promise to come back here soon!
 
 **Kamsahamnida (감사합니다), Thank You!**
