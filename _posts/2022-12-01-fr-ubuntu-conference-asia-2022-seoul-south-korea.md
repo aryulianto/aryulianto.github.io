@@ -23,7 +23,7 @@ UbuCon Asia 2022 is the first in-person and online (hybrid) event, held in Seoul
 
 **Before the conference**
 
-Just like applying for a visa to other countries, I handled my Korean visa myself and found the process to be relatively fast, taking about a week. The requirements were quite clear and I was assisted by [Youngbin Han](https://youngbin.xyz) to obtain a business visa to Korea. You can find the requirements at the following link.
+I applied for my own Korean visa, just like I would for a visa to another country, and I realized that the procedure went pretty fast took about a week. The requirements were quite clear and I was assisted by [Youngbin Han](https://youngbin.xyz) to apply for a C-3-1 (business) visa to Korea. You can find the requirements at the following [link](https://sites.google.com/view/koreanembassy2/visa-jangka-pendek/kunjungan-singkat-umum).
 
 My flight departed from Terminal 3 Soetta Jakarta at 10:30 PM WIB and arrived in Incheon at 7:40 AM KST. The immigration process was also quite smooth with the automatic gate. After leaving the airport, I immediately looked for T-money at a convenience store for transportation purposes during my stay there. My next destination was the Stanford Hotel Seoul, where I used Arex to get to Seoul with a travel time of just over an hour.
 
