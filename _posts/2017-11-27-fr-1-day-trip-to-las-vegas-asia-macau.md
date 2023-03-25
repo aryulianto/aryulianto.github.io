@@ -1,6 +1,6 @@
 ---
 id: 753
-title: '[FR] 1 Day Trip to Las Vegas Asia &#8211; Macau'
+title: '[FR] 1 Day Trip to Las Vegas Asia, Macao - Liburan 1 Hari ke Makau'
 date: 2017-11-27T23:14:39+07:00
 author: ary
 layout: post

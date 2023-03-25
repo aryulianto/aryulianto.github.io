@@ -1,6 +1,6 @@
 ---
 id: 716
-title: '[FR] openSUSE Asia Summit 2017 – Tokyo Japan'
+title: '[FR] openSUSE Asia Summit 2017 – Tokyo, Japan'
 date: 2017-10-31T18:30:32+07:00
 author: ary
 layout: post

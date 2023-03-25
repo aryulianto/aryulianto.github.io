@@ -1,6 +1,6 @@
 ---
 id: 467
-title: '[FR] openSUSE.Asia Summit 2016 &#8211; Yogyakarta Indonesia'
+title: '[FR] openSUSE.Asia Summit 2016 - Yogyakarta, Indonesia'
 date: 2016-10-11T09:09:05+07:00
 author: ary
 layout: post

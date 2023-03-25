@@ -1,6 +1,6 @@
 ---
 id: 1245
-title: '[FR] openSUSE Conference 2019 – Nuremberg Germany'
+title: '[FR] openSUSE Conference 2019 – Nuremberg, Germany'
 date: 2019-05-31T19:17:31+07:00
 author: ary
 layout: post
@@ -17,6 +17,8 @@ tags:
   - openSUSE
   - Report
 ---
+The openSUSE Conference is the annual openSUSE community event that brings people from around the world together to meet and collaborate. A party here and there provides the time to relax and have fun, making connections on a more personal level.
+
 **Before Conference**
 
 After an 18-hour flight from Jakarta, [Mr. Edwin](https://twitter.com/medwinz) and I finally arrived at Nuremberg. It is the city of [SUSE&#8217;s](https://www.suse.com/) office. We arrived at Nuremberg Airport around 10.00 AM. At first, I thought the immigration checking process would be quite intimidating. Turned out, I was being too paranoid 😀 The questions asked were standard one, such as what&#8217;s the occasion coming here, where do you stay and for how long.
