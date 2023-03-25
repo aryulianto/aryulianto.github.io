@@ -19,15 +19,15 @@ tags:
   - Ubuntu
   - UbuCon
 ---
-UbuCon Asia 2022 is the first in-person and online (hybrid) event, held in Seoul, South Korea from November 26 to 27 2022.
+UbuCon Asia 2022 is the first in-person and online (hybrid) event, held in Nuritkum Square, Seoul, South Korea from November 26 to 27 2022.
 
 **Before the conference**
 
-I applied for my own Korean visa, just like I would for a visa to another country, and I realized that the procedure went pretty fast took about a week. The requirements were quite clear and I was assisted by [Youngbin Han](https://youngbin.xyz) to apply for a C-3-1 (business) visa to Korea. You can find the requirements at the following [link](https://sites.google.com/view/koreanembassy2/visa-jangka-pendek/kunjungan-singkat-umum).
+I applied for my own Korean visa, just like I would for a visa to another country, and I realized that the procedure went pretty fast took about a Week. The requirements were quite clear and I was assisted by [Youngbin Han](https://youngbin.xyz) to apply for a C-3-1 (business) visa to Korea. You can find the requirements at the following [link](https://sites.google.com/view/koreanembassy2/visa-jangka-pendek/kunjungan-singkat-umum).
 
-My flight departed from Terminal 3 Soetta Jakarta at 10:30 PM WIB and arrived in Incheon at 7:40 AM KST. The immigration process was also quite smooth with the automatic gate. After leaving the airport, I immediately looked for T-money at a convenience store for transportation purposes during my stay there. My next destination was the Stanford Hotel Seoul, where I used Arex to get to Seoul with a travel time of just over an hour.
+My flight departed from Terminal 3 Soetta Jakarta at 10:30 PM WIB and arrived in Incheon at 7:40 AM KST. The immigration process was also quite smooth with the automatic gate. After leaving the airport, I immediately looked for T-money at a convenience store for transportation purposes during my stay here. My next destination was the Stanford Hotel Seoul, I used Arex to get to Seoul with a travel time of just over an hour.
 
-Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter.com/hrittikhere) from India and [Khairul Aizat Kamarudzzaman](https://www.facebook.com/myfenris) from Malaysia. On the first day, I went to the venue to check out the location where many local organizers were preparing for the event tomorrow. After that, I bought food for lunch and returned to the hotel to rest.
+Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter.com/hrittikhere) from India and [Khairul Aizat Kamarudzzaman](https://www.facebook.com/myfenris) from Malaysia. On the first day, I went to the venue to check the location where many local organizers were preparing for the event tomorrow. After that, I bought food for lunch and returned to the hotel to rest.
 
 **Day 1 Conference**
 
@@ -37,7 +37,7 @@ After the first day was over, I attended the conference dinner and mingled with 
 
 **Day 2 Conference**
 
-This was the day when I gave my talk about **Play with MAAS (Metal as a Service) CLI** Since morning, I focused on preparing my slides and a live demo. If you want to see the recording and slides that I used, you can visit the following link: [https://2022.ubucon.asia/sessions/play-with-maas-cli/](https://2022.ubucon.asia/sessions/play-with-maas-cli/)
+This was the day when I gave my talk about **Play with MAAS (Metal as a Service) CLI.** Since morning, I focused on preparing my slides and a live demo. If you want to see the recording and slides that I used, you can visit the following link: [https://2022.ubucon.asia/sessions/play-with-maas-cli/](https://2022.ubucon.asia/sessions/play-with-maas-cli/)
 
 **Group Tour**
 
@@ -45,12 +45,11 @@ The organizer also provided a one-day tour that included a visit to [Insa-dong](
 
 **After the Conference**
 
-After the UbuCon 2022 event was over, I moved to [Myeong-dong](https://en.wikipedia.org/wiki/Myeong-dong) to extend my stay for a few days and enjoy the beauty of the city by exploring around. Besides that, I also went solo hiking to climb [Bukhansan](https://en.wikipedia.org/wiki/Bukhansan) or Bukhan Mountain, which I might share in a separate article. I was also invited by my friends [Seongsoo](https://twitter.com/seongsoo_kr) and [Seonjae](https://twitter.com/tjswo98sj06) to go to Seoul Sky to enjoy the night view of Seoul city.
+After the UbuCon Asia 2022 event, I moved to [Myeong-dong](https://en.wikipedia.org/wiki/Myeong-dong) to extend my stay for a few days and enjoy the beauty of the city by exploring around. Besides that, I also went solo hiking to climb [Bukhansan](https://en.wikipedia.org/wiki/Bukhansan) or Bukhan Mountain, which I might share in a separate article. I was also invited by my friends [Seongsoo](https://twitter.com/seongsoo_kr) and [Seonjae](https://twitter.com/tjswo98sj06) to go to [Seoul Sky](https://seoulsky.lotteworld.com/en/main/index.do) to enjoy the night view of Seoul city.
 
 South Korea is an amazing country that offers a unique blend of traditional and modern culture. The people are friendly and welcoming, and the food is delicious. 
 
-My experience at [UbuCon 2022](https://2022.ubucon.asia/) and in South Korea was unforgettable, and I promise to come back here soon!
+My experience at [UbuCon Asia 2022](https://2022.ubucon.asia/) and in South Korea was unforgettable, and I promise to come back here soon!
 ![alt text](https://lh3.googleusercontent.com/pw/AMWts8AsDO_cnq7DIBCQN9Av_eK411VQn18nbNjTouOeAd5wRCic0OsFdFK3Nj5uATAn1Yfr9CiZkwAYY7Pm8RFINz-m9ZSkJ5_eP8VY2sHDCA86DvJn20npHoi4FuSb0-gMH2QUuFVZvQbWsrmis6H9lO_1=w1395-h933-s-no?authuser=0)
-
 
 **Kamsahamnida (감사합니다), Thank You!**
