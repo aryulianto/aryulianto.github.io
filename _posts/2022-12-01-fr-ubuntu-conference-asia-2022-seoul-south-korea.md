@@ -25,7 +25,7 @@ UbuCon Asia 2022 is the first in-person and online (hybrid) event, held in Nurit
 
 I applied for my own Korean visa, just like I would for a visa to another country, and I realized that the procedure went pretty fast took about a Week. The requirements were quite clear and I was assisted by [Youngbin Han](https://youngbin.xyz) to apply for a C-3-1 (business) visa to Korea. You can find the requirements at the following [link](https://sites.google.com/view/koreanembassy2/visa-jangka-pendek/kunjungan-singkat-umum).
 
-My flight departed from Terminal 3 Soetta Jakarta at 10:30 PM WIB and arrived in Incheon at 7:40 AM KST. The immigration process was also quite smooth with the automatic gate. After leaving the airport, I immediately looked for T-money at a convenience store for transportation purposes during my stay here. My next destination was the Stanford Hotel Seoul, I used Arex to get to Seoul with a travel time of just over an hour.
+My flight departed from Terminal 3 Soetta Jakarta at 10:30 PM WIB and arrived in Incheon at 7:40 AM KST. The immigration process was also quite smooth with the automatic gate. After leaving the airport, I immediately looked for T-money at a convenience store for transportation purposes during my stay here. My next destination was the Stanford Hotel Seoul, I used Arex to get there, with a travel time of just over an hour.
 
 Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter.com/hrittikhere) from India and [Khairul Aizat Kamarudzzaman](https://www.facebook.com/myfenris) from Malaysia. On the first day, I went to the venue to check the location where many local organizers were preparing for the event tomorrow. After that, I bought food for lunch and returned to the hotel to rest.
 
@@ -51,5 +51,12 @@ South Korea is an amazing country that offers a unique blend of traditional and 
 
 My experience at [UbuCon Asia 2022](https://2022.ubucon.asia/) and in South Korea was unforgettable, and I promise to come back here soon!
 ![alt text](https://lh3.googleusercontent.com/pw/AMWts8AsDO_cnq7DIBCQN9Av_eK411VQn18nbNjTouOeAd5wRCic0OsFdFK3Nj5uATAn1Yfr9CiZkwAYY7Pm8RFINz-m9ZSkJ5_eP8VY2sHDCA86DvJn20npHoi4FuSb0-gMH2QUuFVZvQbWsrmis6H9lO_1=w1395-h933-s-no?authuser=0)
+
+- [Day 1 Recap](https://twitter.com/aryuliantos/status/1596531748091097088)
+- [Day 2 Recap](https://twitter.com/aryuliantos/status/1597036013691744256)
+- [Group Tour](https://twitter.com/aryuliantos/status/1597583321961152513) 
+- Videos from the event are on [YouTube](https://www.youtube.com/@UbuConAsia/videos)
+
+#UbuConAsia #UCA22 #Ubuntu
 
 **Kamsahamnida (감사합니다), Thank You!**
