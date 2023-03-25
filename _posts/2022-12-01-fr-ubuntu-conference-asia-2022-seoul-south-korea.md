@@ -33,13 +33,13 @@ Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter
 
 I attended several sessions and was quite impressed with the event organizers who provided Korea-English interpreters, making me comfortable and able to participate in any session in the main hall. I also met [Seongsoo Cho](https://twitter.com/seongsoo_kr) from Openstack Korea User Group, and was very happy to meet and have a great time with him!
 
-After the first day was over, I attended the conference dinner and mingled with speakers and other community folks at a fancy party room in Hongdae!
+After the first day was over, I attended the conference dinner and mingled with speakers and other community folks at a fancy party room in [Hongdae](https://en.wikipedia.org/wiki/Hongdae_(area))!
 
 **Day 2 Conference**
 
 **Group Tour**
 
-The organizer also provided a one-day tour that included a visit to Insa-dong, Gyeongbokgung Palace, Bukchon Hanok Village, and a painting performance show.Thank you for the lovely experience. I really appreciate all the efforts made by the team to make this event a grand success."
+The organizer also provided a one-day tour that included a visit to [Insa-dong](https://en.wikipedia.org/wiki/Insa-dong), [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung), [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village), and [The Painters](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_2_3.jsp?cid=691388), painting performance show. Thank you for the lovely experience. I really appreciate all the efforts made by the team to make this event a grand success.
 
 **After the Conference**
 
