@@ -15,8 +15,8 @@ tags:
   - "2022"
   - Conference
   - Field
-  - Ubuntu
   - Report
+  - Ubuntu
   - UbuCon
 ---
 UbuCon Asia 2022 is the first in-person and online (hybrid) event, held in Seoul, South Korea from November 26 to 27 2022.
@@ -41,6 +41,8 @@ After the first day was over, I attended the conference dinner and mingled with 
 
 **After the Conference**
 
-still typing ...
+After the UbuCon 2022 event was over, I moved to [Myeong-dong](https://en.wikipedia.org/wiki/Myeong-dong) to extend my stay for a few days and enjoy the beauty of the city by exploring around. Besides that, I also went solo hiking to climb [Bukhansan](https://en.wikipedia.org/wiki/Bukhansan) or Bukhan Mountain, which I might share in a separate article. I was also invited by my friends [Seongsoo](https://twitter.com/seongsoo_kr) and [Seonjae](https://twitter.com/tjswo98sj06) to go to Seoul Sky to enjoy the night view of Seoul city
+
+South Korea is an amazing country that offers a unique blend of traditional and modern culture. The people are friendly and welcoming, and the food is delicious. My experience at UbuCon 2022 and in South Korea was unforgettable, and I promise to come back here soon!
 
 **Kamsahamnida (감사합니다), Thank You!**
