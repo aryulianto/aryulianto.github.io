@@ -10,6 +10,7 @@ categories:
   - Life
   - Linux
   - Trip
+  - Field Report
 tags:
   - "2022"
   - Conference
@@ -30,7 +31,7 @@ Upon arriving at the hotel, I met new friends with [Hrittik Roy](https://twitter
 
 **Day 1 Conference**
 
-I attended several sessions and was quite impressed with the event organizers who provided Korea-English interpreters, making me comfortable and able to participate in any session in the main hall. I also met [Seongsoo Cho](https://twitter.com/seongsoo_kr) from Openstack Korea, and was very happy to meet and talk alot with him!
+I attended several sessions and was quite impressed with the event organizers who provided Korea-English interpreters, making me comfortable and able to participate in any session in the main hall. I also met [Seongsoo Cho](https://twitter.com/seongsoo_kr) from Openstack Korea, and was very happy to meet and have a great time with him!
 
 After the first day was over, I attended the conference dinner and mingled with speakers and other community folks at a fancy party room in Hongdae!
 
