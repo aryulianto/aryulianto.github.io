@@ -17,7 +17,7 @@ tags:
   - openSUSE
   - Report
 ---
-The openSUSE Conference is the annual openSUSE community event that brings people from around the world together to meet and collaborate. A party here and there provides the time to relax and have fun, making connections on a more personal level.
+The openSUSE Conference is the annual openSUSE community event that brings people from around the world together to meet and collaborate.
 
 **Before Conference**
 
