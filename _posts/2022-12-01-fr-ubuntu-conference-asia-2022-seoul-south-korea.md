@@ -79,6 +79,8 @@ My experience at [UbuCon Asia 2022](https://2022.ubucon.asia/) and in South Kore
 
 ![](https://lh3.googleusercontent.com/pw/AMWts8AsDO_cnq7DIBCQN9Av_eK411VQn18nbNjTouOeAd5wRCic0OsFdFK3Nj5uATAn1Yfr9CiZkwAYY7Pm8RFINz-m9ZSkJ5_eP8VY2sHDCA86DvJn20npHoi4FuSb0-gMH2QUuFVZvQbWsrmis6H9lO_1=w1395-h933-s-no?authuser=0)
 
+You could see more pictures on [Google Photos](https://photos.app.goo.gl/SPhfVVxuiFR4Rh2g6), also the video was available on [YouTube](https://www.youtube.com/@UbuConAsia/videos)
+
 **Kamsahamnida (감사합니다), Thank You!**
 
 #UbuConAsia #UCA22 #Ubuntu
