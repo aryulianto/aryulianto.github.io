@@ -38,10 +38,15 @@ After the first day was over, I attended the conference dinner and mingled with 
 **Day 2 Conference**
 
 This was the day when I gave my talk about **Play with MAAS (Metal as a Service) CLI.** Since morning, I focused on preparing my slides and a live demo. If you want to see the recording and slides that I used, you can visit the following link: [https://2022.ubucon.asia/sessions/play-with-maas-cli/](https://2022.ubucon.asia/sessions/play-with-maas-cli/)
+![](https://photos.google.com/share/AF1QipOBqkhvDtwfwRlCWDVLxGHJ0YWfcu1qCU7GjbXpjEzmI4Y2sNaoX-_jDr_mlPrhXw/photo/AF1QipMgGTUsua7Fn27PaJf0FearJ1LBzsIFMwI6Iuru?key=UWlMbTBGWmd0S1pMaGZ4NUlKam1YcEMxTXJlYnhB)
 
 **Group Tour**
 
-The organizer also provided a one-day tour that included a visit to [Insa-dong](https://en.wikipedia.org/wiki/Insa-dong), [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung), [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village), and [The Painters](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_2_3.jsp?cid=691388) to saw painting performance show. Thank you for the lovely experience. I really appreciate all the efforts made by the team to make this event a grand success.
+The organizer also provided a one-day tour that included a visit to [Insa-dong](https://en.wikipedia.org/wiki/Insa-dong), [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung), [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village), and [The Painters](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_2_3.jsp?cid=691388) to saw painting performance show. 
+![](https://photos.google.com/share/AF1QipNWNU8bZJ68aONKXNWkXW_-lVweeV8KtKAXnkhvLtnaQaxCvA7EAkJZ5q7Z7sBqBw/photo/AF1QipNNu6SBSJ00TRz5v_ZTx1ezOXVtsVG_XkzT-27J?key=YlM3YndLVGdyWDBTQkVQY3g2NWI0RHVCdDV5aU13)
+![](https://photos.google.com/share/AF1QipNWNU8bZJ68aONKXNWkXW_-lVweeV8KtKAXnkhvLtnaQaxCvA7EAkJZ5q7Z7sBqBw/photo/AF1QipObIbeD0pWt6OTPgAgUbOs4pcMSWvOgCvxhhSQ6?key=YlM3YndLVGdyWDBTQkVQY3g2NWI0RHVCdDV5aU13)
+![](https://photos.google.com/share/AF1QipNWNU8bZJ68aONKXNWkXW_-lVweeV8KtKAXnkhvLtnaQaxCvA7EAkJZ5q7Z7sBqBw/photo/AF1QipNo6SI5AaKrWuC3dqIWLKY4kspF7xqzuEXYJUjL?key=YlM3YndLVGdyWDBTQkVQY3g2NWI0RHVCdDV5aU13)
+Thank you for the lovely experience. I really appreciate all the efforts made by the team to make this event a grand success.
 
 **After the Conference**
 
@@ -50,7 +55,7 @@ After the UbuCon Asia 2022 event, I moved to [Myeong-dong](https://en.wikipedia.
 South Korea is an amazing country that offers a unique blend of traditional and modern culture. The people are friendly and welcoming, and the food is delicious. 
 
 My experience at [UbuCon Asia 2022](https://2022.ubucon.asia/) and in South Korea was unforgettable, and I promise to come back here soon!
-![alt text](https://lh3.googleusercontent.com/pw/AMWts8AsDO_cnq7DIBCQN9Av_eK411VQn18nbNjTouOeAd5wRCic0OsFdFK3Nj5uATAn1Yfr9CiZkwAYY7Pm8RFINz-m9ZSkJ5_eP8VY2sHDCA86DvJn20npHoi4FuSb0-gMH2QUuFVZvQbWsrmis6H9lO_1=w1395-h933-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AMWts8AsDO_cnq7DIBCQN9Av_eK411VQn18nbNjTouOeAd5wRCic0OsFdFK3Nj5uATAn1Yfr9CiZkwAYY7Pm8RFINz-m9ZSkJ5_eP8VY2sHDCA86DvJn20npHoi4FuSb0-gMH2QUuFVZvQbWsrmis6H9lO_1=w1395-h933-s-no?authuser=0)
 
 **Kamsahamnida (감사합니다), Thank You!**
 
