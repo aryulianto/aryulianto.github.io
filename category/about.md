@@ -14,4 +14,4 @@ I am a [Red Hat Certified Architect (RHCA)](https://www.credly.com/users/aryulia
 
 In my free time, I enjoy outdoor activities such as watching football, swimming, hiking, and enjoying a cup of coffee. Also, have a keen interest in open infrastructure and cloud-native technologies.
 
-If you have any questions, feedback, or just want to say hello, please don't hesitate to reach out to me via [saputro@aryulianto.com](mailto:saputro@aryulianto.com)
+If you have any questions, feedback, or just want to say hello, please don't hesitate to reach out to me via [aryuliantos[at]gmail.com](mailto:saputro@aryulianto.com)
